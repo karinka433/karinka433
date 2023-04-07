@@ -1,8 +1,6 @@
 ![Karinka Banner](https://i.ibb.co/fHqsk7f/wp4288391.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! karinka</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h2>Hey there! karinka</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
